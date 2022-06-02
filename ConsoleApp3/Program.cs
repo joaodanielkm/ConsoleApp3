@@ -9,7 +9,7 @@ namespace ConsoleApp3
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {sadf
             decimal resultado;
             string texto1 = "";
             string operacao = "";
